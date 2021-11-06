@@ -1,0 +1,23 @@
+body {
+    font-family: fantasy, fantasy;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffb5b5;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    color:  #ffee00;
+}
+h2,h3,h4,h5 {text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    color: #0026ff;
+}
+.image_placeholder {
+    text-align: center;
+}
+table, td {
+    margin: 0 auto;
+    border: 3px solid black;
+}
